@@ -1,7 +1,7 @@
 # Nitro-Redeemer
-Boost Nations nitro redeemer that I made for them, fixed.
+# Star this repo and follow if you actually want to see more good tools to be posted here!
 
-**Star this repo and follow if you actually want to see more good tools to be posted here!**
+Boost Nations nitro redeemer that I made for them, fixed.
 
 This was made 3-4 months ago so don't expect the code to look nice, I don't code this bad trust
 
